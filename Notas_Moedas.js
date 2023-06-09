@@ -77,7 +77,7 @@
   console.log(`${moeda_001} moeda(s) de R$ 0.01`);
 
 /*
-  Com node:
+  Com node(terminal):
 
   const readline = require('readline');
 
