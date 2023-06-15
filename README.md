@@ -10,7 +10,7 @@
 
 ### 🤔 Sobre o projeto?
 
-É um compilado de exercícios de Javascript para conhecimento e fixação da linguagem.
+É um compilado de exercícios de Javascript, da plataforma [beecrowd](https://www.beecrowd.com.br/judge/pt), para conhecimento e fixação da linguagem.
 
 ---
 
