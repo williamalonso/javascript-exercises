@@ -63,7 +63,7 @@ Caso queira, clone ou faça o downlod desse repositório:
 
 ```
 # Clone o repositório
-$ git clone git@github.com:williamalonso/exercicios-java.git
+$ git clone git@github.com:williamalonso/exercicios-javascript.git
 ```
 
 <h3 align="center">William Alonso</h3>
