@@ -1,5 +1,5 @@
 <h1 align="center">
-    Exercícios de Javascript
+    JavaScript Exercises
 </h1>
 
 ---
@@ -8,62 +8,62 @@
 
 
 
-### 🤔 Sobre o projeto?
+### 🤔 About the project?
 
-É um compilado de exercícios de Javascript, da plataforma [beecrowd](https://www.beecrowd.com.br/judge/pt), para conhecimento e fixação da linguagem.
+It's a compilation of Javascript exercises, from the [beecrowd](https://www.beecrowd.com.br/judge/pt) platform, to understand and to consolidate the language.
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com a linguagem:
+This project was develop with the following technologies:
 
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ---
 
 
-## 🙅 Instalações e usos
+## 🙅 Facilities and uses
 
-Para criar e executar os programas Javascript, é necessário o download do NodeJs.
+To create and run Javascript programs, you need to download NodeJs.
 
-O NodeJs permite a execução de códigos JavaScript fora de um navegador web.
+NodeJs allows JavaScript code to be executed outside of a web browser.
 
-Para realizar o download do NodeJs, basta ir até a página de download [clicando aqui](https://nodejs.org/en/download/).
+To download NodeJs, just go to the download page by [clicking here](https://nodejs.org/en/download/).
 
-Caso a página não abra, basta pesquisar por "download nodejs" no Google e entrar no site oficial da ferramenta.
+If the page doesn't open, just search for "nodejs download" on Google and go to the official website.
 
-Uma vez na página de download, pode deixar a opção LTS selecionada e escolher a plataforma: Windows, Linux ou Mac.
+Once on the download page, you can leave the LTS option selected and choose the platform: Windows, Linux or Mac.
 
-Para verificar se o NodeJs foi instalado corretamente, abra seu prompt de comando e digite:
+To check if NodeJs was correctly installed, open your prompt command and type:
 
 ```
 node -v
 ```
 
-Junto com a instalação do NodeJs, vem o npm (ou Node Package Manager), que é o gerenciador de pacotes do NodeJs.
+Along with the NodeJs installation comes npm (or Node Package Manager), which is the NodeJs package manager.
 
-Para verificar a versão do npm digite:
+To check the npm version type:
 
 ```
 npm -v
 ```
 
-Se tudo ocorrer bem, o terminal vai informar a versão instalada em sua máquina.
+If everything goes well, the terminal will inform you of the version installed on your machine.
 
-Para executar um programa javascript fora do navegador, vá até a pasta onde o arquivo está e digite em um terminal:
+To run a javascript program outside of the browser, go to the folder where the file is and type in a terminal:
 
 ```
 node nome_projeto.js
 ```
 
-Com isso, seu código será executado e exibido em seu terminal.
+With this, your code will be executed and displayed in your terminal.
 
-Caso queira, clone ou faça o downlod desse repositório:
+If you want, clone or download this repository:
 
 ```
-# Clone o repositório
-$ git clone git@github.com:williamalonso/exercicios-javascript.git
+# Clone the repository
+$ git clone git@github.com:williamalonso/javascript-exercises.git
 ```
 
 <h3 align="center">William Alonso</h3>
