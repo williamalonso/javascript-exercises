@@ -40,7 +40,7 @@ TRIANGULO RETANGULO
 */
 
 const fs = require('fs');
-const local = true; // Mude para 'true' se estiver testando localmente
+const local = false; // Mude para 'true' se estiver testando localmente
 
 const input = local
   ? fs.readFileSync('input.txt', 'utf8')
